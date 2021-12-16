@@ -7,10 +7,10 @@ school project fro mobile programming
 
 - Expo
 
-- Google Firebase:
+- Google Firebase:\
    Authentication and data storage
   
-- validator.js
+- validator.js:\
    This library validates and sanitizes strings only
    ```
    validator.isEmail(email); //example for email validation
