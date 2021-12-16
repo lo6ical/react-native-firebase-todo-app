@@ -23,7 +23,7 @@ const AuthScreens = () => {
 const Screens = () => {
     return (
         <Stack.Navigator>
-            <Stack.Screen name="Fire App" component={Home} />
+            <Stack.Screen name="ToDo App" component={Home} />
             <Stack.Screen name="Settings" component={Settings} />
             <Stack.Screen
                 name="ToDoList"
