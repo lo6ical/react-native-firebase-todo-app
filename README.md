@@ -1,5 +1,5 @@
 # react-native-firebase-todo-app
-school project for mobile programming
+School project for mobile programming
 
 ### Technologies used:
 
